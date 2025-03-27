@@ -19,6 +19,7 @@ height: 50px;
 cursor: pointer;
 text-transform: uppercase;
 font-weight: bold;
+margin-top: 30px;
 }
 
     .imagem-mario-luigi {
@@ -35,11 +36,12 @@ font-weight: bold;
     justify-content: space-around;
     padding: 100px;
     height: 100vh;
+    z-index: 1;
 
   }
 
   .caixa-principal {
-    width: 40%;
+    width: 50%;
 
   }
 
@@ -52,5 +54,38 @@ font-weight: bold;
 
   video {
     width: 100vw;
-    object-fit: cover;
+    
   }
+   .mascara {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    
+   }
+
+    .link-whatsapp img {
+      height: 60px;
+      position: fixed;
+      right: 20px;
+      bottom: 20px;
+    }
+
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      margin: 30px;
+    }
+
+    .header  img {
+      height: 60px;
+    }
+
+.header a{
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
