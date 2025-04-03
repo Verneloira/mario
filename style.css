@@ -142,9 +142,12 @@ textarea {
   visibility: hidden;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100vw;
   height: 100vh;
   background: linear-gradient(109deg, rgba(10, 12, 16, 0.99) 15%, rgba(10, 12, 16, 0.7) 50%, rgba(10, 12, 16, 0.99) 85%);
   transition:  visibility 1s ease-in-out;
+  display: none;
+  z-index: 1000;
 
 }
