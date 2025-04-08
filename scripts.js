@@ -2,16 +2,13 @@ const form = document.querySelector(".formulario-fale-conosco")
 const mascara = document.querySelector(".mascara-formulario")
 
 function mostrarForm() {
-  form.style.left = "50%";
-  form.style.transform = "translateX(-50%)";
-  form.style.visibility = "visible";
-  mascara.style.display = "block";
+  document.querySelector(".formulario-fale-conosco").style.left = "50px";
+  document.querySelector(".mascara-formulario").style.display = "block";
+  document.querySelector(".mascara-formulario").style.visibility = "visible";
 }
 
 function esconderForm() {
-  form.style.left = "-300px";
-  form.style.transform = "translateX(0)";
-  form.style.visibility = "hidden";
-  mascara.style.display = "none";
+  document.querySelector(".formulario-fale-conosco").style.left = "-300px";
+  document.querySelector(".mascara-formulario").style.visibility = "hidden";
+  document.querySelector(".mascara-formulario").style.display = "none";
 }
-

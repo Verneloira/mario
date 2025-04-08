@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta+Malar:wght@200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
     <title>Mario Bros</title>
 </head>
 
@@ -41,21 +45,20 @@
         <video src="./img/video.mp4" autoplay muted loop></video>
         <div class="mascara"></div>
     </div>
-    <a class="link-whatsapp" href="https://w.app/yudtbx">
+    <a class="link-whatsapp" href="https://wa.me/5511999999999">
         <img src="./img/whatsapp icon_2.png" alt="link para o whatsapp">
-    </a>
+      </a>
+      
 
-    <form class="formulario-fale-conosco">
-        <input placeholder="Seu nome">
-        <input placeholder="Seu telefone">
-        <textarea placeholder="Digite seu problema aqui..."></textarea>
-        <button>Pedir Orçamento</button>
+    <form class="formulario-fale-conosco" action="https://formcarry.com/s/To0p2r1QEub" method="POST"
+        enctype="multipart/form-data">
+        <input placeholder="Seu nome" type="text" name="nome">
+        <input placeholder="Seu telefone" type="tel" name="telefone">
+        <textarea placeholder="Digite seu problema aqui..." name="duvidas"></textarea>
+        <button type="submit">Pedir Orçamento</button>
     </form>
-
-
-
-
 
 </body>
 <script src="scripts.js"></script>
+
 </html>
