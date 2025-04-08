@@ -3,7 +3,7 @@
 <h3>projeto que aprendi no<a href="https//rodolfomori.com.br/devclub">DevClub</a</h3>
 <br>
 <br>
-<p>Esse é um projeto para aprender a fazer um site para resolver problemas hidráulicos </p>
+<p>Esse é um projeto para aprender a fazer um site oferecendo serviços para resolver problemas hidráulicos </p>
 <h2>tecnologias utilizadas</h2>
 <br>
 <br>
@@ -14,4 +14,4 @@
 <br>
 <br>
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
--<img src=""
+-<img src="https://github.com/Verneloira/mario/blob/main/img/desktop.png?raw=true"
