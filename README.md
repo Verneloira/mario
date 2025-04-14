@@ -16,5 +16,5 @@
 <br>
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <h3>Formato desktop e Mobile</h3>
--<img src="https://github.com/Verneloira/mario/blob/main/img/desktop.png?raw=true"/>
--<img src="https://github.com/Verneloira/mario/blob/main/img/mario.mobile.png"/>
+-<img src="https://github.com/Verneloira/mario/blob/main/img/mario%20desktop.jpg"/>
+-<img src=""/>
