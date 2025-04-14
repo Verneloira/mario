@@ -3,7 +3,8 @@
 <h3>projeto que aprendi no<a href="https//rodolfomori.com.br/devclub">DevClub</a</h3>
 <br>
 <br>
-<p>Essa é uma aplicação para aprender a fazer um site oferecendo serviços para resolver problemas hidráulicos </p>
+<p>Mario & Luigi  é um projeto criado para simular os serviços de consertos hidráulicos oferecidos pelos famosos irmãos encanadores. Este site combina design simples e funcionalidade prática, permitindo aos usuários solicitar reparos e aprender mais sobre o trabalho de encanadores, com um toque divertido inspirado nos personagens.
+ </p>
 <h2>tecnologias utilizadas</h2>
 <br>
 <br>
