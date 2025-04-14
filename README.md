@@ -3,7 +3,7 @@
 <h3>projeto que aprendi no<a href="https//rodolfomori.com.br/devclub">DevClub</a</h3>
 <br>
 <br>
-<p>Esse é um projeto para aprender a fazer um site oferecendo serviços para resolver problemas hidráulicos </p>
+<p>Essa é uma aplicação para aprender a fazer um site oferecendo serviços para resolver problemas hidráulicos </p>
 <h2>tecnologias utilizadas</h2>
 <br>
 <br>
